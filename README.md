@@ -19,7 +19,7 @@ Adding a new task
 
 ## Sample
 
-You can download sample apk file [here](https://github.com/mekete/ToyotaTodo/README.md)
+You can download sample apk file [here](https://github.com/mekete/ToyotaTodo/blob/main/ToyotaTodo.apk)
 
 
 ## Overview
