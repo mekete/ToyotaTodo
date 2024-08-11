@@ -14,7 +14,7 @@ Clicking a task lead to details, user can edit the task then
 
 Adding a new task
 <p align="center">
-  <img src="screenshot_details.png" width="300" />
+  <img src="screenshot_new.png" width="300" />
 </p>
 
 ## Sample
