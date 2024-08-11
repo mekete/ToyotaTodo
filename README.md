@@ -1,4 +1,4 @@
-## NoteTakingApp
+## ToDo App with Jetpack Compose
 
 
 
